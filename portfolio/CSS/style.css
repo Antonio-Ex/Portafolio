@@ -1,0 +1,16 @@
+/*CSS Elementos generales */
+body{
+    background-color: #222;
+    color: white;
+}
+h3{
+    color: #999;
+}
+/*CSS Ids y Class */
+.hastag{
+    color: #ffc900;
+}
+#EXP{
+    background-color: white;
+    color:#222;
+}
